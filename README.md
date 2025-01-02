@@ -18,8 +18,8 @@ To write a python program to implement multivariate linear regression and predic
 
 ## Program:
 ``` python
-### DEVELOPED BY: RAJA R
-### REGISTERED NUMBER: 22004914
+### DEVELOPED BY: rizwan B
+### REGISTERED NUMBER: 24900277
 
 import pandas as pd
 from sklearn import linear_model
